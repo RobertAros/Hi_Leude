@@ -1,8 +1,18 @@
+body {
+    background-color: rgb(138, 128, 122);
+}
+
+
 a {
     color: black;
     font-size: small;
+    }
+
+h1 {
+    border: solid rgb(28, 24, 18);
+    font-size: large;
 }
 
-h3 {
-    border: solid blue;
+footer {
+    font-size: smaller;
 }
